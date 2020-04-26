@@ -1,0 +1,1 @@
+FakeGenews: o gênio na detecção de fake news.
